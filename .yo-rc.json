@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "pdf-viewer",
+    "libraryId": "382e9664-152e-408b-9623-adaa99328e36",
+    "environment": "spo"
+  }
+}
